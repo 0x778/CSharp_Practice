@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\DotNetFiles.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\Practice_1\\DotNetFiles.csproj",
       "projectName": "DotNetFiles",
-      "projectPath": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\DotNetFiles.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\Practice_1\\DotNetFiles.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\C#\\DotNetFiles\\Practice_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
