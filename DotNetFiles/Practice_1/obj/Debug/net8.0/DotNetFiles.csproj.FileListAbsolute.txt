@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C#\DotNetFiles\bin\Debug\net8.0\DotNetFiles.exe
+C:\Users\asus\Desktop\C#\DotNetFiles\bin\Debug\net8.0\DotNetFiles.deps.json
+C:\Users\asus\Desktop\C#\DotNetFiles\bin\Debug\net8.0\DotNetFiles.runtimeconfig.json
+C:\Users\asus\Desktop\C#\DotNetFiles\bin\Debug\net8.0\DotNetFiles.dll
+C:\Users\asus\Desktop\C#\DotNetFiles\bin\Debug\net8.0\DotNetFiles.pdb
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.AssemblyInfo.cs
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.sourcelink.json
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.dll
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\refint\DotNetFiles.dll
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.pdb
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\DotNetFiles.genruntimeconfig.cache
+C:\Users\asus\Desktop\C#\DotNetFiles\obj\Debug\net8.0\ref\DotNetFiles.dll
