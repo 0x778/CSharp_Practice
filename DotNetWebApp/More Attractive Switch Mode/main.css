@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+/*
+// This is the Control Panel
+// Change $scale to adjust size of button
+// Change $time to adjust transition time.
+*/
+$scale: 120px;
+vatime: 1s;
+
+
+/* A Template (Mixin) of all common codes, to stop repitition*/
+
+@mixin common ($a,$b,$c,$d,$e,$f,$g){
+  display: $a;
+  flex-direction: $b;
+  justify-content: $c;
+  align-items: $d;
+  width: $e;
+  height: $f;
+  background-color: $g;
+  transition:all $time ease;
+}
+
+/*
+// To change the default Configurations 
+*/
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+  body{
+    @include common(flex,column,center,center,100%,null,null);
+    min-height:100vh;
+    font-family: 'Poppins';
+  }
+}
+
+/*
+// Style Rules for the .container class with 2 childrens(title,content)
+*/
+.container{
+  display: flex;
+  flex-direction:column;
+  width:80%;
+  @media (min-width:500px){
+    width:50%;
+  }
+  .title{
+    text-align:center;
+  }
+  .content{
+    text-align:justify;
+  } 
+/*   for hiding the small tick box*/
+  input[type="checkbox"]{
+    display: none;
+  }
+}
+
+/*Style rules for the .btn class*/
+
+.btn{
+  align-self:center;
+  margin:15px 0;
+}
+
+/* Style rules for the .box class */
+
+.box{
+  position:relative;
+  border-radius:var(scale)/4;
+  cursor:pointer;
+  
+/* Style rules for the roller .ball class*/
+  
+  .ball{
+    position:absolute;
+    border-radius:50%;
+    border: 3px solid black;
+  }
+  
+/*   Style rules for the .scenary(.sun, .moon) class */
+  
+  .scenary{
+    @include common(flex, row, space-between,null,null,null,null);
+    padding: 5px 10px 0px 10px;
+    svg{
+      width:var(scale)/3;
+    }
+  }
+}
